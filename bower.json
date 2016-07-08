@@ -9,7 +9,7 @@
   "dependencies": {},
   "devDependencies": {},
   "appPath": "",
-  "_release": "0.1.2",
+  "_release": "0.0.1",
   "ignore": [
     "Gruntfile.js",
     "package.json",
