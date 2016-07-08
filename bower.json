@@ -1,0 +1,27 @@
+{
+  "name": "irazhnov-test",
+  "version": "0.0.1",
+  "authors": [
+    "Igor <irazhnov@gmail.com>"
+  ],
+  "description": "test bower comp",
+  "main": "src/main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "appPath": "",
+  "_release": "0.1.2",
+  "ignore": [
+    "Gruntfile.js",
+    "package.json",
+    ".idea"
+  ],
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.1",
+    "commit": ""
+  },
+  "_source": "https://github.com/irazhnov/bowerComp.git",
+  "_target": "~0.0.1",
+  "_originalSource": "https://github.com/irazhnov/bowerComp.git"
+}

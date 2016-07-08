@@ -1,0 +1,22 @@
+{
+  "name": "irazhnov-test",
+  "version": "0.1.0",
+  "main": "src/main.js",
+  "ignore": [
+    "Gruntfile.js",
+    "package.json",
+    ".idea"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "appPath": "",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.1",
+    "commit": ""
+  },
+  "_source": "https://stas_yermakov@bitbucket.org/stas_yermakov/r4-ui-core.git",
+  "_target": "~0.0.1",
+  "_originalSource": "https://stas_yermakov@bitbucket.org/stas_yermakov/r4-ui-core.git"
+}
